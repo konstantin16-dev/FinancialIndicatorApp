@@ -1,0 +1,3 @@
+C:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\FinancialIndicatorsApp.dir/objects.a
+C:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\FinancialIndicatorsApp.dir/objects.a @CMakeFiles\FinancialIndicatorsApp.dir\objects1.rsp
+C:\Qt\Tools\mingw1310_64\bin\g++.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\FinancialIndicatorsApp.dir/objects.a -Wl,--no-whole-archive -o FinancialIndicatorsApp.exe -Wl,--out-implib,libFinancialIndicatorsApp.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\FinancialIndicatorsApp.dir\linkLibs.rsp

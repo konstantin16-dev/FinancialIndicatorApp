@@ -1,0 +1,5 @@
+C:/Users/user/Desktop/CourseProject/FinancialIndicatorApp/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/CMakeFiles/FinancialIndicatorsApp.dir
+C:/Users/user/Desktop/CourseProject/FinancialIndicatorApp/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/CourseProject/FinancialIndicatorApp/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/user/Desktop/CourseProject/FinancialIndicatorApp/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/CMakeFiles/FinancialIndicatorsApp_autogen_timestamp_deps.dir
+C:/Users/user/Desktop/CourseProject/FinancialIndicatorApp/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/CMakeFiles/FinancialIndicatorsApp_autogen.dir
